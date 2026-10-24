@@ -165,16 +165,6 @@ Understand Constraints ──► Direct AI Agents ──► Audit Code & Diff �
   <img src="assets/signature-rami-glitch.png" alt="Rami GLITCH Signature" width="480" />
 </div>
 
-<br />
-
-```text
-  ____      _    __  __ ___    ____ _     ___ _____ ____ _   _ 
- |  _ \    / \  |  \/  |_ _|  / ___| |   |_ _|_   _/ ___| | | |
- | |_) |  / _ \ | |\/| || |  | |  _| |    | |  | || |   | |_| |
- |  _ <  / ___ \| |  | || |  | |_| | |___ | |  | || |___|  _  |
- |_| \_\/_/   \_\_|  |_|___|  \____|_____|___| |_| \____|_| |_|
-```
-
 ---
 
 <!-- SECTION I: ANIMATED SVG FOOTER -->
